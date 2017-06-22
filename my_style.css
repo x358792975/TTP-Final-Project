@@ -1,0 +1,33 @@
+#cook{
+	font-size: 80px;
+}
+h2 {
+	
+}
+
+#login{
+	margin-top: 10px;
+	margin-left: 50px;
+	font-size: 20px;
+	color: blue;
+	font-style: oblique;
+	float: left;
+	display: inline;
+}
+
+#pic1 {
+	margin: 100px;
+	margin-left: 20px;
+	width: 400px;
+	padding: 25px;
+	display: inline;
+}
+#pic2{
+
+	display: block;
+	float: right;
+}
+#pic3{
+	float: right;
+	margin-left: 50px;
+}
